@@ -30,5 +30,5 @@ for i in range(0, 12, 4):
     print deck[i+1], deck[i+3]
     print "---------------------"
 
-#player=[deck[i], deck[i+2]];
+player=[deck[i], deck[i+2]];
 #banker=[deck[i+1], deck[i+4]];
